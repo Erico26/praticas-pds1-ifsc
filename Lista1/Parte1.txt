@@ -1,0 +1,11 @@
+	1- Na programação, biblioteca é o termo usado  para definir o código-fonte que possibilita adicionar novas funções ao código-fonte.
+
+	2 - Swing é uma biblioteca JAVA para criar interfaces graficas.
+
+	3 -
+		a) Jbutton
+		b) JTextField
+		c) JCheckBox
+		d) JProgressBar
+		e) JToggleButton
+		f) JComboBox
