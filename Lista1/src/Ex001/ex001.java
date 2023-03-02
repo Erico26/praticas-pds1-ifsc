@@ -6,11 +6,14 @@ public class ex001 {
 		double  precoLitro = 0.0;
 		Integer  quantidadeLitros = 0;
 		
-		precoLitro = JOptionPane.showInputDialog("Insira o valor: ");
-		quantidadeLitros = JOptionPane.showInputDialog("Insira o valor: ");
+		precoLitro = Double.valueOf(JOptionPane.showInputDialog("Insira o valor: "));
+		quantidadeLitros = Integer.valueOf(JOptionPane.showInputDialog("Insira o valor: ")); 
 		
-		JOptionPane.showMessageDialog(null, quantidadeLitros);
-		
+		JOptionPane.showMessageDialog(null, "preço total"+total(quantidadeLitros,precoLitro);
+					 	
 	}
-
+	public static Double total(Integer quantidadeLitros, Double precoLitro){
+		Double Valor_Total = quantidadeLitros*precoLitro;
+		return Valor_Total;
+	}
 }
