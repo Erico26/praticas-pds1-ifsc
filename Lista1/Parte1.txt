@@ -1,4 +1,4 @@
-	1- Na programação, biblioteca é o termo usado  para definir o código-fonte que possibilita adicionar novas funções ao código-fonte.
+﻿	1- Na programação, biblioteca é o termo usado  para definir o código-fonte que possibilita adicionar novas funções ao código-fonte.
 
 	2 - Swing é uma biblioteca JAVA para criar interfaces graficas.
 
@@ -9,3 +9,15 @@
 		d) JProgressBar
 		e) JToggleButton
 		f) JComboBox
+
+	4 - layot criado para se usar como posicionamento absoluto. AbsoluteLayout, floatLayout, BorderLayout, boxLayout
+	GridLayout, CarLayout, SpringLayout, GridbagLayout, JgoodiessFormLayout, MigLayout, groupLayout
+
+	5 - getText()
+
+	6 - Swing: Interface gráfica mais evoluida, maiores efeitos 
+	    AWT: POssui os primeiros componentes gráficos, possui uma aparencia mais padrão e não possuem muito efeito grafico
+	    JavaFX: gráficos, animações, recursos, multimídia, costumização e efeitos 
+	
+	7 - Os look-and-feels são objetos que após ser configurados, modificam o modo como o usuário irá visualizar
+	 a interface gráfica. FlatLaf vem com temas Light , Dark , IntelliJ e Darcula e dimensiona em telas.
