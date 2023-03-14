@@ -18,8 +18,19 @@ public class ex03 {
 		}
 		
 	 
-	 JOptionPane.showMessageDialog(null, calc[i]);
+	 JOptionPane.showMessageDialog(null, "media final: " calc[i]);
 
 	}
-
+	public static Double mediafinal (calc[i]) {
+		double Mf = calc[i]/i;
+		if(MF>=6) {
+			System.out.println("Aprovado");
+		}
+		if(MF>=4) {
+			System.out.println("Recuperação");
+		}
+		if(MF<4) {
+			System.out.println("Reprovado");
+		}
+	}
 }
